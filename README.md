@@ -31,11 +31,11 @@ Content creators face a barrage of degrading and mentally distressing comments o
 - API
 
 ## Images
-<img src="images/4.png" width="200" height="200">
-<img src="images/5.png" width="200" height="200">
-<img src="images/1.png" width="200" height="200">
-<img src="images/2.png" width="200" height="200">
-<img src="images/3.png" width="200" height="200">
+<img src="images/4.png" width="695" height="494">
+<img src="images/5.png" width="695" height="494">
+<img src="images/1.png" width="695" height="494">
+<img src="images/2.png" width="695" height="494">
+<img src="images/3.png" width="695" height="494">
 
 ## Author
 Made by Chamoli 
