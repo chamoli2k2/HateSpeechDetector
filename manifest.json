@@ -1,0 +1,32 @@
+{
+    "manifest_version": 3,
+    "name": "Hate Speech Detector",
+    "version": "0.1",
+    "description": "This extension detects and censors hate speech.",
+    "author": "Chamoli",
+    "action": {
+        "default_icon": {
+            "16": "nohate16.png",
+            "48": "nohate48.png"
+        },
+        "default_popup": "popup.html"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": [
+        "storage",
+        "tabs",
+        "activeTab"
+    ]
+}
