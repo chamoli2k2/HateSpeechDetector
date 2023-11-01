@@ -31,11 +31,11 @@ Content creators face a barrage of degrading and mentally distressing comments o
 - API
 
 ## Images
-![Extension Popup](images/4.jpeg)
-![](images/5.jpeg)
-![Comment blocked](images/1.jpeg)
-![](images/2.jpeg)
-![After pressing button](images/3.jpeg)
+![Extension Popup](images/4.png)
+![](images/5.png)
+![Comment blocked](images/1.png)
+![](images/2.png)
+![After pressing button](images/3.png)
 
 ## Author
 Made by Chamoli :)
