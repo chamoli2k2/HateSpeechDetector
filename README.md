@@ -30,5 +30,12 @@ Content creators face a barrage of degrading and mentally distressing comments o
 - JavaScript
 - API
 
+## Images
+![Extension Popup](images/4.jpeg)
+![](images/5.jpeg)
+![Comment blocked](images/1.jpeg)
+![](images/2.jpeg)
+![After pressing button](images/3.jpeg)
+
 ## Author
 Made by Chamoli :)
