@@ -38,4 +38,4 @@ Content creators face a barrage of degrading and mentally distressing comments o
 ![After pressing button](images/3.png)
 
 ## Author
-Made by Chamoli :)
+Made by Chamoli 
