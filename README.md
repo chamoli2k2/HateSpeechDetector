@@ -17,8 +17,7 @@ In the vast realm of YouTube, where countless voices converge to build communiti
 Content creators face a barrage of degrading and mentally distressing comments on their videos, while the community witnesses negativity and offense on their favorite content. As avid consumers of online media, we believe it's imperative to wield a tool that battles these comments, making YouTube a safer haven for all.
 
 ## How to Use This Extension
-1. Clone or download this repository into a folder <a href="https://drive.google.com/file/d/1Y35sLFSVjxR5B3_8CHotCyxX2cAUb-Ci/view?usp=sharing" download target="_blank">Download</a>
-
+1. Clone or download this repository into a folder <a href="https://drive.google.com/file/d/1Y35sLFSVjxR5B3_8CHotCyxX2cAUb-Ci/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download</a>
 2. Go to [chrome://extensions/](chrome://extensions/)
 3. Check the box "Developer mode"
 4. Click "Load unpacked extension..." and select the folder
